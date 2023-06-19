@@ -1,7 +1,7 @@
 <p align="center">
   <img width="160" src="https://npm.elemecdn.com/@lobehub/assets/logo/logo-3d.webp">
 </p>
-<h1 align="center">@lobehub/favicons</h1>
+<h1 align="center">@lobehub/assets-favicons</h1>
 
 <div align="center">
 
