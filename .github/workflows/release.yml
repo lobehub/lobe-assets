@@ -1,0 +1,39 @@
+name: Release CI
+on:
+  push:
+    branches:
+      - master
+      - alpha
+      - beta
+      - rc
+
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: ⚙ 设置 pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: latest
+
+      - name: 🏗 准备 Node.js 环境
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: 🗳 安装依赖
+        run: pnpm install
+
+      # npm 8 和 9 会在 `npm version` 时执行依赖树命令，进而报错退出
+      # Refs: https://github.com/semantic-release/npm/issues/540
+      - name: Setup npm 7
+        run: npm i -g npm@7 --registry=https://registry.npmjs.org
+
+      - name: 🚀 npm 包发布
+        run: pnpm run release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}

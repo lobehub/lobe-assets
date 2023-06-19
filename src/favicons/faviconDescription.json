@@ -1,0 +1,63 @@
+{
+  "design": {
+    "ios": {
+      "pictureAspect": "backgroundAndMargin",
+      "backgroundColor": "#000000",
+      "margin": "14%",
+      "assets": {
+        "ios6AndPriorIcons": false,
+        "ios7AndLaterIcons": false,
+        "precomposedIcons": false,
+        "declareOnlyDefaultIcon": true
+      },
+      "appName": "LobeHub"
+    },
+    "desktopBrowser": {
+      "design": "raw"
+    },
+    "windows": {
+      "pictureAspect": "noChange",
+      "backgroundColor": "#000000",
+      "onConflict": "override",
+      "assets": {
+        "windows80Ie10Tile": false,
+        "windows10Ie11EdgeTiles": {
+          "small": true,
+          "medium": true,
+          "big": true,
+          "rectangle": true
+        }
+      },
+      "appName": "LobeHub"
+    },
+    "androidChrome": {
+      "pictureAspect": "noChange",
+      "themeColor": "#000000",
+      "manifest": {
+        "name": "LobeHub",
+        "display": "standalone",
+        "orientation": "notSet",
+        "onConflict": "override",
+        "declared": true
+      },
+      "assets": {
+        "legacyIcon": false,
+        "lowResolutionIcons": false
+      }
+    },
+    "safariPinnedTab": {
+      "masterPicture": "src/assets/logo-high-contrast.svg",
+      "pictureAspect": "silhouette",
+      "themeColor": "#000000"
+    }
+  },
+  "iconsPath": "/",
+  "masterPicture": "src/assets/logo-3d.png",
+  "settings": {
+    "scalingAlgorithm": "Mitchell",
+    "errorOnImageTooSmall": false,
+    "readmeFile": false,
+    "htmlCodeFile": true,
+    "usePathAsIs": false
+  }
+}
