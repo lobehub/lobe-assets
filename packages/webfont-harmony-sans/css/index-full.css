@@ -1,0 +1,133 @@
+@charset "UTF-8";
+
+/* Thin */
+@font-face {
+  font-family: 'HarmonyOS Sans';
+  src: local(HarmonyOS_Sans_Thin), local('HarmonyOS Sans Thin'),
+    url('../fonts/HarmonyOS_Sans_Thin.woff2') format('woff2'),
+    url('../fonts/HarmonyOS_Sans_Thin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Thin Italic */
+@font-face {
+  font-family: 'HarmonyOS Sans';
+  src: local(HarmonyOS_Sans_Thin_Italic), local('HarmonyOS Sans Thin Italic'),
+    url('../fonts/HarmonyOS_Sans_Thin_Italic.woff2') format('woff2'),
+    url('../fonts/HarmonyOS_Sans_Thin_Italic.woff') format('woff');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Light */
+@font-face {
+  font-family: 'HarmonyOS Sans';
+  src: local(HarmonyOS_Sans_Light), local('HarmonyOS Sans Light'),
+    url('../fonts/HarmonyOS_Sans_Light.woff2') format('woff2'),
+    url('../fonts/HarmonyOS_Sans_Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Light Italic */
+@font-face {
+  font-family: 'HarmonyOS Sans';
+  src: local(HarmonyOS_Sans_Light_Italic), local('HarmonyOS Sans Light Italic'),
+    url('../fonts/HarmonyOS_Sans_Light_Italic.woff2') format('woff2'),
+    url('../fonts/HarmonyOS_Sans_Light_Italic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Regular */
+@font-face {
+  font-family: 'HarmonyOS Sans';
+  src: local(HarmonyOS_Sans_Regular), local(HarmonyOS_Sans), local('HarmonyOS Sans Regular'),
+    local('HarmonyOS Sans'), url('../fonts/HarmonyOS_Sans_Regular.woff2') format('woff2'),
+    url('../fonts/HarmonyOS_Sans_Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Regular Italic */
+@font-face {
+  font-family: 'HarmonyOS Sans';
+  src: local(HarmonyOS_Sans_Regular_Italic), local('HarmonyOS Sans Regular Italic'),
+    url('../fonts/HarmonyOS_Sans_Regular_Italic.woff2') format('woff2'),
+    url('../fonts/HarmonyOS_Sans_Regular_Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Medium */
+@font-face {
+  font-family: 'HarmonyOS Sans';
+  src: local(HarmonyOS_Sans_Medium), local('HarmonyOS Sans Regular Medium'),
+    url('../fonts/HarmonyOS_Sans_Medium.woff2') format('woff2'),
+    url('../fonts/HarmonyOS_Sans_Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Medium Italic */
+@font-face {
+  font-family: 'HarmonyOS Sans';
+  src: local(HarmonyOS_Sans_Medium_Italic), local('HarmonyOS Sans Medium Italic'),
+    url('../fonts/HarmonyOS_Sans_Medium_Italic.woff2') format('woff2'),
+    url('../fonts/HarmonyOS_Sans_Medium_Italic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'HarmonyOS Sans';
+  src: local(HarmonyOS_Sans_Bold), local('HarmonyOS Sans Bold'),
+    url('../fonts/HarmonyOS_Sans_Bold.woff2') format('woff2'),
+    url('../fonts/HarmonyOS_Sans_Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Bold Italic */
+@font-face {
+  font-family: 'HarmonyOS Sans';
+  src: local(HarmonyOS_Sans_Bold_Italic), local('HarmonyOS Sans Bold Italic'),
+    url('../fonts/HarmonyOS_Sans_Bold_Italic.woff2') format('woff2'),
+    url('../fonts/HarmonyOS_Sans_Bold_Italic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Black */
+@font-face {
+  font-family: 'HarmonyOS Sans';
+  src: local(HarmonyOS_Sans_Black), local('HarmonyOS Sans Black'),
+    url('../fonts/HarmonyOS_Sans_Black.woff2') format('woff2'),
+    url('../fonts/HarmonyOS_Sans_Black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Black Italic */
+@font-face {
+  font-family: 'HarmonyOS Sans';
+  src: local(HarmonyOS_Sans_Black_Italic), local('HarmonyOS Sans Black Italic'),
+    url('../fonts/HarmonyOS_Sans_Black_Italic.woff2') format('woff2'),
+    url('../fonts/HarmonyOS_Sans_Black_Italic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

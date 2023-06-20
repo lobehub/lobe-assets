@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+/* Regular */
+@font-face {
+  font-family: 'Hack';
+  src: local(Hack_Regular_Nerd_Font_Complete_Mono), local('Hack Regular Nerd Font Complete Mono'),
+    url('../fonts/Hack_Regular_Nerd_Font_Complete_Mono.woff2') format('woff2'),
+    url('../fonts/Hack_Regular_Nerd_Font_Complete_Mono.woff') format('woff');
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Regular Italic */
+@font-face {
+  font-family: 'Hack';
+  src: local(Hack_Italic_Nerd_Font_Complete_Mono), local('Hack Italic Nerd Font Complete Mono'),
+    url('../fonts/Hack_Italic_Nerd_Font_Complete_Mono.woff2') format('woff2'),
+    url('../fonts/Hack_Italic_Nerd_Font_Complete_Mono.woff') format('woff');
+  font-stretch: normal;
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'Hack';
+  src: local(Hack_Bold_Nerd_Font_Complete_Mono), local('Hack Bold Nerd Font Complete Mono'),
+    url('../fonts/Hack_Bold_Nerd_Font_Complete_Mono.woff2') format('woff2'),
+    url('../fonts/Hack_Bold_Nerd_Font_Complete_Mono.woff') format('woff');
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+/* Bold Italic */
+@font-face {
+  font-family: 'Hack';
+  src: local(Hack_Bold_Italic_Nerd_Font_Complete_Mono),
+    local('Hack Bold Italic Nerd Font Complete Mono'),
+    url('../fonts/Hack_Bold_Italic_Nerd_Font_Complete_Mono.woff2') format('woff2'),
+    url('../fonts/Hack_Bold_Italic_Nerd_Font_Complete_Mono.woff') format('woff');
+  font-stretch: normal;
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+}

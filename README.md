@@ -19,9 +19,9 @@ Logo assets, favicons, webfonts for LobeHub
 [![stargazers][stargazers-shield]][stargazers-url]
 [![issues][issues-shield]][issues-url]
 
-![](https://github.com/lobehub/favicon/blob/main/preview.png?raw=true)
-
 </div>
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <details>
 <summary><kbd>Table of contents</kbd></summary>
@@ -56,7 +56,7 @@ Logo assets, favicons, webfonts for LobeHub
 
 ## 💞 Favicons
 
-![](https://github.com/lobehub/favicon/blob/main/docs/preview.png?raw=true)
+![](https://github.com/lobehub/lobe-assets/blob/master/docs/preview.png?raw=true)
 
 This package was generated with [RealFaviconGenerator](https://realfavicongenerator.net/) [v0.16](https://realfavicongenerator.net/change_log#v0.16)
 

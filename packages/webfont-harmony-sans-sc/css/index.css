@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+/* Light */
+@font-face {
+  font-family: 'HarmonyOS Sans SC';
+  src: local(HarmonyOS_Sans_SC_Light), local('HarmonyOS Sans SC Light'),
+    url('../fonts/HarmonyOS_Sans_SC_Light.woff2') format('woff2'),
+    url('../fonts/HarmonyOS_Sans_SC_Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Regular */
+@font-face {
+  font-family: 'HarmonyOS Sans SC';
+  src: local(HarmonyOS_Sans_SC_Regular), local(HarmonyOS_Sans_SC),
+    local('HarmonyOS Sans SC Regular'), local('HarmonyOS Sans SC'),
+    url('../fonts/HarmonyOS_Sans_SC_Regular.woff2') format('woff2'),
+    url('../fonts/HarmonyOS_Sans_SC_Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Medium */
+@font-face {
+  font-family: 'HarmonyOS Sans SC';
+  src: local(HarmonyOS_Sans_SC_Medium), local('HarmonyOS Sans SC Regular Medium'),
+    url('../fonts/HarmonyOS_Sans_SC_Medium.woff2') format('woff2'),
+    url('../fonts/HarmonyOS_Sans_SC_Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'HarmonyOS Sans SC';
+  src: local(HarmonyOS_Sans_SC_Bold), local('HarmonyOS Sans SC Bold'),
+    url('../fonts/HarmonyOS_Sans_SC_Bold.woff2') format('woff2'),
+    url('../fonts/HarmonyOS_Sans_SC_Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}

@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+/* Regular */
+@font-face {
+  font-family: 'Hack';
+  src: local(Hack), local(Hack_Regular), local('Hack Regular'),
+    url('../fonts/Hack_Regular.woff2') format('woff2'),
+    url('../fonts/Hack_Regular.woff') format('woff');
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Regular Italic */
+@font-face {
+  font-family: 'Hack';
+  src: local(Hack_Italic), local('Hack Italic'), url('../fonts/Hack_Italic.woff2') format('woff2'),
+    url('../fonts/Hack_Italic.woff') format('woff');
+  font-stretch: normal;
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'Hack';
+  src: local(Hack_Bold), local('Hack Bold'), url('../fonts/Hack_Bold.woff2') format('woff2'),
+    url('../fonts/Hack_Bold.woff') format('woff');
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+/* Bold Italic */
+@font-face {
+  font-family: 'Hack';
+  src: local(Hack_Bold_Italic), local('Hack Bold Italic'),
+    url('../fonts/Hack_Bold_Italic.woff2') format('woff2'),
+    url('../fonts/Hack_Bold_Italic.woff') format('woff');
+  font-stretch: normal;
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+}

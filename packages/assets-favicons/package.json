@@ -1,0 +1,26 @@
+{
+  "name": "@lobehub/assets-favicons",
+  "version": "1.0.0",
+  "description": "Favicons for LobeHub",
+  "keywords": [
+    "favicon"
+  ],
+  "homepage": "https://github.com/lobehub/lobe-assets",
+  "bugs": {
+    "url": "https://github.com/lobehub/lobe-assets/issues/new"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lobehub/lobe-assets.git"
+  },
+  "license": "MIT",
+  "author": "LobeHub <i@lobehub.com>",
+  "sideEffects": false,
+  "files": [
+    "assets"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
