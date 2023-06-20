@@ -23,7 +23,6 @@ Logo assets, favicons, webfonts for LobeHub
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-
 #### 📝 License
 
 Copyright © 2023 [LobeHub][profile-url]. <br />

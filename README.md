@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="160" src="https://npm.elemecdn.com/@lobehub/assets/logo/logo-3d.webp">
+  <img width="160" src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-3d.webp">
 </p>
 <h1 align="center">Lobe Assets</h1>
 
@@ -28,25 +28,77 @@ Logo assets, favicons, webfonts for LobeHub
 
 #### TOC
 
-- [📦 Installation](#-installation)
+- [📦 Packages](#-packages)
+- [🤯 Logos](#-logos)
+- [💞 Favicons](#-favicons)
+- [🔤 Webfonts](#-webfonts)
 - [⌨️ Local Development](#️-local-development)
 - [🤝 Contributing](#-contributing)
+- [🔗 Credits](#-credits)
 
 ####
 
 </details>
 
+<br />
+
+## 📦 Packages
+
+| NAME                             | NPM                                                                                       | UNPKG                                         |
+| -------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------- |
+| @lobehub/assets-logo             | [![][assets-logo-release]][assets-logo-release-url]                                       | [UNPKG][assets-logo-unpkg]                    |
+| @lobehub/assets-favicons         | [![][assets-favicons-release]][assets-favicons-release-url]                               | [UNPKG][assets-favicons-unpkg]                |
+| @lobehub/webfont-mono            | [![][assets-webfont-mono-release]][assets-webfont-mono-release-url]                       | [UNPKG][assets-webfont-mono-unpkg]            |
+| @lobehub/webfont-harmony-sans    | [![][assets-webfont-harmony-sans-release]][assets-webfont-harmony-sans-release-url]       | [UNPKG][assets-webfont-harmony-sans-unpkg]    |
+| @lobehub/webfont-harmony-sans-sc | [![][assets-webfont-harmony-sans-sc-release]][assets-webfont-harmony-sans-sc-release-url] | [UNPKG][assets-webfont-harmony-sans-sc-unpkg] |
+
+<!-- @lobehub/assets-logo -->
+
+[assets-logo-release]: https://img.shields.io/npm/v/@lobehub/assets-logo?label=%F0%9F%A4%AF%20NPM
+[assets-logo-release-url]: https://www.npmjs.com/package/@lobehub/assets-logo
+[assets-logo-unpkg]: https://npm.elemecdn.com/@lobehub/assets-logo
+
+<!-- @lobehub/assets-favicons -->
+
+[assets-favicons-release]: https://img.shields.io/npm/v/@lobehub/assets-favicons?label=%F0%9F%A4%AF%20NPM
+[assets-favicons-release-url]: https://www.npmjs.com/package/@lobehub/assets-favicons
+[assets-favicons-unpkg]: https://npm.elemecdn.com/@lobehub/assets-favicons
+
+<!-- @lobehub/webfont-mono -->
+
+[assets-webfont-mono-release]: https://img.shields.io/npm/v/@lobehub/webfont-mono?label=%F0%9F%A4%AF%20NPM
+[assets-webfont-mono-release-url]: https://www.npmjs.com/package/@lobehub/webfont-mono
+[assets-webfont-mono-unpkg]: https://npm.elemecdn.com/@lobehub/webfont-mono
+
+<!-- @lobehub/webfont-harmony-sans -->
+
+[assets-webfont-harmony-sans-release]: https://img.shields.io/npm/v/@lobehub/webfont-harmony-sans?label=%F0%9F%A4%AF%20NPM
+[assets-webfont-harmony-sans-release-url]: https://www.npmjs.com/package/@lobehub/webfont-harmony-sans
+[assets-webfont-harmony-sans-unpkg]: https://npm.elemecdn.com/@lobehub/webfont-harmony-sans
+
+<!-- @lobehub/webfont-harmony-sans-sc -->
+
+[assets-webfont-harmony-sans-sc-release]: https://img.shields.io/npm/v/@lobehub/webfont-harmony-sans-sc?label=%F0%9F%A4%AF%20NPM
+[assets-webfont-harmony-sans-sc-release-url]: https://www.npmjs.com/package/@lobehub/webfont-harmony-sans-sc
+[assets-webfont-harmony-sans-sc-unpkg]: https://npm.elemecdn.com/@lobehub/webfont-harmony-sans-sc
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
 ## 🤯 Logos
 
-| <img src="https://npm.elemecdn.com/@lobehub/assets/logo/logo-3d.webp" width="64" > | <img src="https://npm.elemecdn.com/@lobehub/assets/logo/logo-flat.svg" width="64" > | <img src="https://npm.elemecdn.com/@lobehub/assets/logo/logo-high-contrast.svg" width="64" > | <img src="https://npm.elemecdn.com/@lobehub/assets/logo/logo-text.svg" width="64" > |
-| ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [Logo 3D][logo-3d]                                                                 | [Logo Flat][logo-flat]                                                              | [Logo High Contrast][logo-high-contrast]                                                     | [Logo Text][logo-text]                                                              |
-| webp                                                                               | svg                                                                                 | svg                                                                                          | svg                                                                                 |
+| <img src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-3d.webp" width="64" > | <img src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-flat.svg" width="64" > | <img src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-high-contrast.svg" width="64" > | <img src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-text.svg" width="64" > |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [Logo 3D][logo-3d]                                                                        | [Logo Flat][logo-flat]                                                                     | [Logo High Contrast][logo-high-contrast]                                                            | [Logo Text][logo-text]                                                                     |
+| webp                                                                                      | svg                                                                                        | svg                                                                                                 | svg                                                                                        |
 
-[logo-3d]: https://npm.elemecdn.com/@lobehub/assets/logo/logo-3d.webp
-[logo-flat]: https://npm.elemecdn.com/@lobehub/assets/logo/logo-flat.svg
-[logo-high-contrast]: https://npm.elemecdn.com/@lobehub/assets/logo/logo-high-contrast.svg
-[logo-text]: https://npm.elemecdn.com/@lobehub/assets/logo/logo-text.svg
+[logo-3d]: https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-3d.webp
+[logo-flat]: https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-flat.svg
+[logo-high-contrast]: https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-high-contrast.svg
+[logo-text]: https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-text.svg
 
 <div align="right">
 
@@ -63,11 +115,11 @@ This package was generated with [RealFaviconGenerator](https://realfavicongenera
 Insert the following code in the `head` section of your pages:
 
 ```
-<link rel="apple-touch-icon" sizes="180x180" href="https://npm.elemecdn.com/@lobehub/assets/favicons/apple-touch-icon.png" />
-<link rel="icon" type="image/png" sizes="32x32" href="https://npm.elemecdn.com/@lobehub/assets/favicons/favicon-32x32.png" />
-<link rel="icon" type="image/png" sizes="16x16" href="https://npm.elemecdn.com/@lobehub/assets/favicons/favicon-16x16.png" />
-<link rel="manifest" href="https://npm.elemecdn.com/@lobehub/assets/favicons/site.webmanifest" />
-<link rel="mask-icon" href="https://npm.elemecdn.com/@lobehub/assets/favicons/safari-pinned-tab.svg" color="#000000" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://npm.elemecdn.com/@lobehub/assets-favicons/assets/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://npm.elemecdn.com/@lobehub/assets-favicons/assets/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://npm.elemecdn.com/@lobehub/assets-favicons/assets/favicon-16x16.png" />
+<link rel="manifest" href="https://npm.elemecdn.com/@lobehub/assets-favicons/assets/site.webmanifest" />
+<link rel="mask-icon" href="https://npm.elemecdn.com/@lobehub/assets-favicons/assets/safari-pinned-tab.svg" color="#000000" />
 <meta name="apple-mobile-web-app-title" content="LobeHub" />
 <meta name="application-name" content="LobeHub" />
 <meta name="msapplication-TileColor" content="#000000" />
@@ -84,60 +136,32 @@ _Optional_ - Check your favicon with the [favicon checker](https://realfaviconge
 
 ## 🔤 Webfonts
 
-[`Hack Nerd Font Mono`](https://npm.elemecdn.com/@lobehub/assets/webfonts/css/hack-nerd-font-mono.css)
+[`Hack Nerd Font Mono`](https://npm.elemecdn.com/@lobehub/webfont-mono/css/index.css)
 
-```text
-https://npm.elemecdn.com/@lobehub/assets/webfonts/css/hack-nerd-font-mono.css
+```sh
+# lite
+https://npm.elemecdn.com/@lobehub/webfont-mono/css/index.css
+# full
+https://npm.elemecdn.com/@lobehub/webfont-mono/css/index-full.css
 ```
 
-[`HarmonyOS Sans`](https://npm.elemecdn.com/@lobehub/assets/webfonts/css/harmonyos-sans.css)
+[`HarmonyOS Sans`](https://npm.elemecdn.com/@lobehub/webfont-harmony-sans/css/index.css)
 
-```text
-https://npm.elemecdn.com/@lobehub/assets/webfonts/css/harmonyos_sans.css
+```sh
+# lite
+https://npm.elemecdn.com/@lobehub/webfont-harmony-sans/css/index.css
+# full
+https://npm.elemecdn.com/@lobehub/webfont-harmony-sans/css/index-full.css
 ```
 
-[`HarmonyOS Sans SC`](https://npm.elemecdn.com/@lobehub/assets/webfonts/css/harmonyos-sans-sc.css)
+[`HarmonyOS Sans SC`](https://npm.elemecdn.com/@lobehub/webfont-harmony-sans-sc/css/index.css)
 
-```text
-https://npm.elemecdn.com/@lobehub/assets/webfonts/css/harmonyos_sans_sc.css
+```sh
+# lite
+https://npm.elemecdn.com/@lobehub/webfont-harmony-sans-sc/css/index.css
+# full
+https://npm.elemecdn.com/@lobehub/webfont-harmony-sans-sc/css/index-full.css
 ```
-
-<details>
-<summary><kbd>File tree</kbd></summary>
-
-```text
-css/···································（样式表目录）
-├── hack-nerd-font-mono.css············（Hack Nerd Font Mono 字体样式表）
-├── harmonyos-sans.css·················（HarmonyOS Sans 字体样式表）
-├── harmonyos-sans-sc.css··············（HarmonyOS Sans SC 字体样式表）
-fonts/·································（字体目录）
-├── Nerdfont···························（Nerd Font 字体目录）
-├── HarmonyOS_Sans·····················（HarmonyOS Sans 字体目录）
-├── HarmonyOS_Sans_Italic··············（HarmonyOS Sans 字体目录）
-└── HarmonyOS_Sans_SC··················（HarmonyOS Sans SC 字体目录）
-```
-
-</details>
-
-<details>
-<summary><kbd>Font style:</kbd></summary>
-
-```text
-HarmonyOS_Sans_*/······················（字体目录）
-├── *_Black.*··························（字重 900 的粗体）
-├── *_Bold.*···························（字重 700 的粗体）
-├── *_Light.*··························（字重 300 的细体）
-├── *_Medium.*·························（字重 500 的标准体）
-├── *_Regular.*························（字重 400 的标准体）
-├── *_Thin.*···························（字重 100 的细体）
-├── *.eot······························（支持 IE6-IE8、IE9+ 兼容模式的字体格式）
-├── *.svg······························（支持旧版 iOS 的字体格式）
-├── *.ttf······························（支持 Safari、Android、iOS 的字体格式）
-├── *.woff·····························（支持现代浏览器的字体格式）
-└── *.woff2····························（支持高版本现代浏览器的字体格式）
-```
-
-</details>
 
 <div align="right">
 
@@ -180,8 +204,8 @@ $ pnpm start
 
 ## 🔗 Credits
 
-- real-fav-icon: https://realfavicongenerator.net/
-- harmonyos-fonts: https://github.com/IKKI2000/harmonyos-fonts
+- real-fav-icon: <https://realfavicongenerator.net/>
+- harmonyos-fonts: <https://github.com/IKKI2000/harmonyos-fonts>
 
 <div align="right">
 
