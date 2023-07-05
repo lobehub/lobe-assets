@@ -1,6 +1,9 @@
 {
     "name": "LobeHub",
     "short_name": "LobeHub",
+    "scope": "/",
+    "start_url": "/",
+    "orientation": "portrait",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -15,5 +18,5 @@
     ],
     "theme_color": "#000000",
     "background_color": "#000000",
-    "display": "standalone"
+    "display": "fullscreen"
 }
