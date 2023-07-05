@@ -1,9 +1,12 @@
-<p align="center">
-  <img width="160" src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-3d.webp">
-</p>
-<h1 align="center">Lobe Assets</h1>
+<a name="readme-top"></a>
 
 <div align="center">
+
+<img height="120" src="https://npm.elemecdn.com/@lobehub/assets-logo@1.0.0/assets/logo-3d.webp">
+<img height="120" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.svg">
+<img height="120" src="https://npm.elemecdn.com/fluentui-emoji/icons/modern/package.svg">
+
+<h1 align="center">Lobe Assets</h1>
 
 Logo assets, favicons, webfonts for LobeHub
 
