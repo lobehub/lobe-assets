@@ -34,6 +34,7 @@ Logo assets, favicons, webfonts for LobeHub
 - [📦 Packages](#-packages)
 - [🤯 Logos](#-logos)
 - [💞 Favicons](#-favicons)
+- [😀Emoji](#emoji)
 - [🔤 Webfonts](#-webfonts)
 - [⌨️ Local Development](#️-local-development)
 - [🤝 Contributing](#-contributing)
@@ -51,6 +52,7 @@ Logo assets, favicons, webfonts for LobeHub
 | -------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------- |
 | @lobehub/assets-logo             | [![][assets-logo-release]][assets-logo-release-url]                                       | [UNPKG][assets-logo-unpkg]                    |
 | @lobehub/assets-favicons         | [![][assets-favicons-release]][assets-favicons-release-url]                               | [UNPKG][assets-favicons-unpkg]                |
+| @lobehub/assets-emoji            | [![][assets-emoji-release]][assets-emoji-release-url]                                     | [UNPKG][assets-emoji-unpkg]                   |
 | @lobehub/webfont-mono            | [![][assets-webfont-mono-release]][assets-webfont-mono-release-url]                       | [UNPKG][assets-webfont-mono-unpkg]            |
 | @lobehub/webfont-harmony-sans    | [![][assets-webfont-harmony-sans-release]][assets-webfont-harmony-sans-release-url]       | [UNPKG][assets-webfont-harmony-sans-unpkg]    |
 | @lobehub/webfont-harmony-sans-sc | [![][assets-webfont-harmony-sans-sc-release]][assets-webfont-harmony-sans-sc-release-url] | [UNPKG][assets-webfont-harmony-sans-sc-unpkg] |
@@ -66,6 +68,12 @@ Logo assets, favicons, webfonts for LobeHub
 [assets-favicons-release]: https://img.shields.io/npm/v/@lobehub/assets-favicons?label=%F0%9F%A4%AF%20NPM
 [assets-favicons-release-url]: https://www.npmjs.com/package/@lobehub/assets-favicons
 [assets-favicons-unpkg]: https://npm.elemecdn.com/@lobehub/assets-favicons
+
+<!-- @lobehub/assets-emoji -->
+
+[assets-emoji-release]: https://img.shields.io/npm/v/@lobehub/assets-emoji?label=%F0%9F%A4%AF%20NPM
+[assets-emoji-release-url]: https://www.npmjs.com/package/@lobehub/assets-emoji
+[assets-emoji-unpkg]: https://npm.elemecdn.com/@lobehub/assets-emoji
 
 <!-- @lobehub/webfont-mono -->
 
@@ -130,6 +138,22 @@ Insert the following code in the `head` section of your pages:
 ```
 
 _Optional_ - Check your favicon with the [favicon checker](https://realfavicongenerator.net/favicon_checker)
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+## 😀Emoji
+
+```bash
+https://npm.elemecdn.com/@lobehub/assets-emoji/assets/ < emoji-name > .webp
+```
+
+![](https://npm.elemecdn.com/@lobehub/assets-emoji/assets/face-with-diagonal-mouth.webp)
+![](https://npm.elemecdn.com/@lobehub/assets-emoji/assets/face-with-hand-over-mouth.webp)
+![](https://npm.elemecdn.com/@lobehub/assets-emoji/assets/face-with-peeking-eye.webp)
 
 <div align="right">
 
