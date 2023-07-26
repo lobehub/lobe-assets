@@ -157,7 +157,7 @@ _Optional_ - Check your favicon with the [favicon checker](https://realfaviconge
 https://npm.onmicrosoft.cn/ < emoji-name > .webp
 ```
 
-![](https://npm.onmicrosoft.cn/@lobehub/assets-emoji/assets/face-with-diagonal-mouth.webp)
+![](https://npm.elemecdn.com/@lobehub/assets-emoji@1.2.0/assets/face-with-diagonal-mouth.webp)
 ![](https://npm.onmicrosoft.cn/@lobehub/assets-emoji/assets/face-with-hand-over-mouth.webp)
 ![](https://npm.onmicrosoft.cn/@lobehub/assets-emoji/assets/face-with-peeking-eye.webp)
 
