@@ -53,6 +53,7 @@ Logo assets, favicons, webfonts for LobeHub
 | @lobehub/assets-logo             | [![][assets-logo-release]][assets-logo-release-url]                                       | [UNPKG][assets-logo-unpkg]                    |
 | @lobehub/assets-favicons         | [![][assets-favicons-release]][assets-favicons-release-url]                               | [UNPKG][assets-favicons-unpkg]                |
 | @lobehub/assets-emoji            | [![][assets-emoji-release]][assets-emoji-release-url]                                     | [UNPKG][assets-emoji-unpkg]                   |
+| @lobehub/emojilib                | [![][emojilib-release]][emojilib-release-url]                                             |                                               |
 | @lobehub/webfont-mono            | [![][assets-webfont-mono-release]][assets-webfont-mono-release-url]                       | [UNPKG][assets-webfont-mono-unpkg]            |
 | @lobehub/webfont-harmony-sans    | [![][assets-webfont-harmony-sans-release]][assets-webfont-harmony-sans-release-url]       | [UNPKG][assets-webfont-harmony-sans-unpkg]    |
 | @lobehub/webfont-harmony-sans-sc | [![][assets-webfont-harmony-sans-sc-release]][assets-webfont-harmony-sans-sc-release-url] | [UNPKG][assets-webfont-harmony-sans-sc-unpkg] |
@@ -74,6 +75,11 @@ Logo assets, favicons, webfonts for LobeHub
 [assets-emoji-release]: https://img.shields.io/npm/v/@lobehub/assets-emoji?label=%F0%9F%A4%AF%20NPM
 [assets-emoji-release-url]: https://www.npmjs.com/package/@lobehub/assets-emoji
 [assets-emoji-unpkg]: https://npm.elemecdn.com/@lobehub/assets-emoji
+
+<!-- @lobehub/emojilib -->
+
+[emojilib-release]: https://img.shields.io/npm/v/@lobehub/emojilib?label=%F0%9F%A4%AF%20NPM
+[emojilib-release-url]: https://www.npmjs.com/package/@lobehub/emojilib
 
 <!-- @lobehub/webfont-mono -->
 
@@ -148,7 +154,7 @@ _Optional_ - Check your favicon with the [favicon checker](https://realfaviconge
 ## 😀Emoji
 
 ```bash
-https://npm.onmicrosoft.cn/<emoji-name>.webp
+https://npm.onmicrosoft.cn/ < emoji-name > .webp
 ```
 
 ![](https://npm.onmicrosoft.cn/@lobehub/assets-emoji/assets/face-with-diagonal-mouth.webp)
