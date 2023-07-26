@@ -59,6 +59,8 @@
   "devDependencies": {
     "@commitlint/cli": "^17",
     "@lobehub/lint": "latest",
+    "@types/node": "latest",
+    "clean-pkg-json": "^1",
     "cli-real-favicon": "latest",
     "commitlint": "^17",
     "eslint": "^8",
@@ -73,7 +75,8 @@
     "sharp": "latest",
     "stylelint": "^15",
     "svgo": "latest",
-    "typescript": "^5"
+    "typescript": "^5",
+    "unicode-emoji-json": "latest"
   },
   "publishConfig": {
     "access": "public",
