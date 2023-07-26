@@ -32,12 +32,21 @@ Logo assets, favicons, webfonts for LobeHub
 #### TOC
 
 - [📦 Packages](#-packages)
+
 - [🤯 Logos](#-logos)
+
 - [💞 Favicons](#-favicons)
+
 - [😀Emoji](#emoji)
+
+  - [Animation Emoji](#animation-emoji)
+
 - [🔤 Webfonts](#-webfonts)
+
 - [⌨️ Local Development](#️-local-development)
+
 - [🤝 Contributing](#-contributing)
+
 - [🔗 Credits](#-credits)
 
 ####
@@ -48,15 +57,16 @@ Logo assets, favicons, webfonts for LobeHub
 
 ## 📦 Packages
 
-| NAME                             | NPM                                                                                       | UNPKG                                         |
-| -------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------- |
-| @lobehub/assets-logo             | [![][assets-logo-release]][assets-logo-release-url]                                       | [UNPKG][assets-logo-unpkg]                    |
-| @lobehub/assets-favicons         | [![][assets-favicons-release]][assets-favicons-release-url]                               | [UNPKG][assets-favicons-unpkg]                |
-| @lobehub/assets-emoji            | [![][assets-emoji-release]][assets-emoji-release-url]                                     | [UNPKG][assets-emoji-unpkg]                   |
-| @lobehub/emojilib                | [![][emojilib-release]][emojilib-release-url]                                             |                                               |
-| @lobehub/webfont-mono            | [![][assets-webfont-mono-release]][assets-webfont-mono-release-url]                       | [UNPKG][assets-webfont-mono-unpkg]            |
-| @lobehub/webfont-harmony-sans    | [![][assets-webfont-harmony-sans-release]][assets-webfont-harmony-sans-release-url]       | [UNPKG][assets-webfont-harmony-sans-unpkg]    |
-| @lobehub/webfont-harmony-sans-sc | [![][assets-webfont-harmony-sans-sc-release]][assets-webfont-harmony-sans-sc-release-url] | [UNPKG][assets-webfont-harmony-sans-sc-unpkg] |
+| NAME                             | NPM                                                                                       | UNPKG                                              |
+| -------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| @lobehub/assets-logo             | [![][assets-logo-release]][assets-logo-release-url]                                       | [ELEM-UNPKG][assets-logo-unpkg]                    |
+| @lobehub/assets-favicons         | [![][assets-favicons-release]][assets-favicons-release-url]                               | [ELEM-UNPKG][assets-favicons-unpkg]                |
+| @lobehub/assets-emoji            | [![][assets-emoji-release]][assets-emoji-release-url]                                     | [ALIYUN-UNPKG][assets-emoji-unpkg]                 |
+| @lobehub/assets-emoji-anim       | [![][assets-emoji-anim-release]][assets-emoji-anim-release-url]                           | [ALIYUN-UNPKG][assets-emoji-anim-unpkg]            |
+| @lobehub/emojilib                | [![][emojilib-release]][emojilib-release-url]                                             | [RAW][emojilib-unpkg]                              |
+| @lobehub/webfont-mono            | [![][assets-webfont-mono-release]][assets-webfont-mono-release-url]                       | [ELEM-UNPKG][assets-webfont-mono-unpkg]            |
+| @lobehub/webfont-harmony-sans    | [![][assets-webfont-harmony-sans-release]][assets-webfont-harmony-sans-release-url]       | [ELEM-UNPKG][assets-webfont-harmony-sans-unpkg]    |
+| @lobehub/webfont-harmony-sans-sc | [![][assets-webfont-harmony-sans-sc-release]][assets-webfont-harmony-sans-sc-release-url] | [ELEM-UNPKG][assets-webfont-harmony-sans-sc-unpkg] |
 
 <!-- @lobehub/assets-logo -->
 
@@ -74,12 +84,19 @@ Logo assets, favicons, webfonts for LobeHub
 
 [assets-emoji-release]: https://img.shields.io/npm/v/@lobehub/assets-emoji?label=%F0%9F%A4%AF%20NPM
 [assets-emoji-release-url]: https://www.npmjs.com/package/@lobehub/assets-emoji
-[assets-emoji-unpkg]: https://npm.elemecdn.com/@lobehub/assets-emoji
+[assets-emoji-unpkg]: https://registry.npmmirror.com/@lobehub/assets-emoji
+
+<!-- @lobehub/assets-emoji-anim -->
+
+[assets-emoji-anim-release]: https://img.shields.io/npm/v/@lobehub/assets-emoji-anim?label=%F0%9F%A4%AF%20NPM
+[assets-emoji-anim-release-url]: https://www.npmjs.com/package/@lobehub/assets-emoji-anim
+[assets-emoji-anim-unpkg]: https://registry.npmmirror.com/@lobehub/assets-emoji-anim
 
 <!-- @lobehub/emojilib -->
 
 [emojilib-release]: https://img.shields.io/npm/v/@lobehub/emojilib?label=%F0%9F%A4%AF%20NPM
 [emojilib-release-url]: https://www.npmjs.com/package/@lobehub/emojilib
+[emojilib-unpkg]: https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/emojilib/index.json
 
 <!-- @lobehub/webfont-mono -->
 
@@ -154,12 +171,28 @@ _Optional_ - Check your favicon with the [favicon checker](https://realfaviconge
 ## 😀Emoji
 
 ```bash
-https://npm.onmicrosoft.cn/ < emoji-name > .webp
+https://registry.npmmirror.com/@lobehub/assets-emoji/1.3.0/files < emoji-name > .webp
 ```
 
-![](https://npm.elemecdn.com/@lobehub/assets-emoji@1.2.0/assets/face-with-diagonal-mouth.webp)
-![](https://npm.onmicrosoft.cn/@lobehub/assets-emoji/assets/face-with-hand-over-mouth.webp)
-![](https://npm.onmicrosoft.cn/@lobehub/assets-emoji/assets/face-with-peeking-eye.webp)
+| ![][emoji-1] | ![][emoji-2] | ![][emoji-3] |
+| ------------ | ------------ | ------------ |
+
+[emoji-1]: https://registry.npmmirror.com/@lobehub/assets-emoji/1.3.0/files/assets/face-with-diagonal-mouth.webp
+[emoji-2]: https://registry.npmmirror.com/@lobehub/assets-emoji/1.3.0/files/assets/face-with-hand-over-mouth.webp
+[emoji-3]: https://registry.npmmirror.com/@lobehub/assets-emoji/1.3.0/files/assets/face-with-peeking-eye.webp
+
+### Animation Emoji
+
+```bash
+https://registry.npmmirror.com/@lobehub/assets-emoji-anim/1.0.0/files < emoji-name > .webp
+```
+
+| ![][emoji-1] | ![][emoji-2] | ![][emoji-3] |
+| ------------ | ------------ | ------------ |
+
+[emoji-anim-1]: https://registry.npmmirror.com/@lobehub/assets-emoji-anim/1.0.0/files/assets/face-with-diagonal-mouth.webp
+[emoji-anim-2]: https://registry.npmmirror.com/@lobehub/assets-emoji-anim/1.0.0/files/assets/face-with-hand-over-mouth.webp
+[emoji-anim-3]: https://registry.npmmirror.com/@lobehub/assets-emoji-anim/1.0.0/files/files/assets/face-with-peeking-eye.webp
 
 <div align="right">
 
