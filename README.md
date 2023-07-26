@@ -148,12 +148,12 @@ _Optional_ - Check your favicon with the [favicon checker](https://realfaviconge
 ## 😀Emoji
 
 ```bash
-https://npm.elemecdn.com/@lobehub/assets-emoji/assets/ < emoji-name > .webp
+https://npm.onmicrosoft.cn/<emoji-name>.webp
 ```
 
-![](https://npm.elemecdn.com/@lobehub/assets-emoji/assets/face-with-diagonal-mouth.webp)
-![](https://npm.elemecdn.com/@lobehub/assets-emoji/assets/face-with-hand-over-mouth.webp)
-![](https://npm.elemecdn.com/@lobehub/assets-emoji/assets/face-with-peeking-eye.webp)
+![](https://npm.onmicrosoft.cn/@lobehub/assets-emoji/assets/face-with-diagonal-mouth.webp)
+![](https://npm.onmicrosoft.cn/@lobehub/assets-emoji/assets/face-with-hand-over-mouth.webp)
+![](https://npm.onmicrosoft.cn/@lobehub/assets-emoji/assets/face-with-peeking-eye.webp)
 
 <div align="right">
 
