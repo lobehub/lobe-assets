@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img height="120" src="https://npm.elemecdn.com/@lobehub/assets-logo@1.0.0/assets/logo-3d.webp">
+<img height="120" src="https://registry.npmmirror.com/@lobehub/assets-logo/1.0.0/files/assets/logo-3d.webp">
 <img height="120" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.svg">
-<img height="120" src="https://npm.elemecdn.com/fluentui-emoji/icons/modern/package.svg">
+<img height="120" src="https://registry.npmmirror.com/@lobehub/assets-emoji/1.3.0/files/assets/package.webp">
 
 <h1 align="center">Lobe Assets</h1>
 
@@ -57,28 +57,28 @@ Logo assets, favicons, webfonts for LobeHub
 
 ## 📦 Packages
 
-| NAME                             | NPM                                                                                       | UNPKG                                              |
-| -------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| @lobehub/assets-logo             | [![][assets-logo-release]][assets-logo-release-url]                                       | [ELEM-UNPKG][assets-logo-unpkg]                    |
-| @lobehub/assets-favicons         | [![][assets-favicons-release]][assets-favicons-release-url]                               | [ELEM-UNPKG][assets-favicons-unpkg]                |
-| @lobehub/assets-emoji            | [![][assets-emoji-release]][assets-emoji-release-url]                                     | [ALIYUN-UNPKG][assets-emoji-unpkg]                 |
-| @lobehub/assets-emoji-anim       | [![][assets-emoji-anim-release]][assets-emoji-anim-release-url]                           | [ALIYUN-UNPKG][assets-emoji-anim-unpkg]            |
-| @lobehub/emojilib                | [![][emojilib-release]][emojilib-release-url]                                             | [RAW][emojilib-unpkg]                              |
-| @lobehub/webfont-mono            | [![][assets-webfont-mono-release]][assets-webfont-mono-release-url]                       | [ELEM-UNPKG][assets-webfont-mono-unpkg]            |
-| @lobehub/webfont-harmony-sans    | [![][assets-webfont-harmony-sans-release]][assets-webfont-harmony-sans-release-url]       | [ELEM-UNPKG][assets-webfont-harmony-sans-unpkg]    |
-| @lobehub/webfont-harmony-sans-sc | [![][assets-webfont-harmony-sans-sc-release]][assets-webfont-harmony-sans-sc-release-url] | [ELEM-UNPKG][assets-webfont-harmony-sans-sc-unpkg] |
+| NAME                             | NPM                                                                                       | UNPKG                                                |
+| -------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| @lobehub/assets-logo             | [![][assets-logo-release]][assets-logo-release-url]                                       | [ALIYUN-UNPKG][assets-logo-unpkg]                    |
+| @lobehub/assets-favicons         | [![][assets-favicons-release]][assets-favicons-release-url]                               | [ALIYUN-UNPKG][assets-favicons-unpkg]                |
+| @lobehub/assets-emoji            | [![][assets-emoji-release]][assets-emoji-release-url]                                     | [ALIYUN-UNPKG][assets-emoji-unpkg]                   |
+| @lobehub/assets-emoji-anim       | [![][assets-emoji-anim-release]][assets-emoji-anim-release-url]                           | [ALIYUN-UNPKG][assets-emoji-anim-unpkg]              |
+| @lobehub/emojilib                | [![][emojilib-release]][emojilib-release-url]                                             | [RAW][emojilib-unpkg]                                |
+| @lobehub/webfont-mono            | [![][assets-webfont-mono-release]][assets-webfont-mono-release-url]                       | [ALIYUN-UNPKG][assets-webfont-mono-unpkg]            |
+| @lobehub/webfont-harmony-sans    | [![][assets-webfont-harmony-sans-release]][assets-webfont-harmony-sans-release-url]       | [ALIYUN-UNPKG][assets-webfont-harmony-sans-unpkg]    |
+| @lobehub/webfont-harmony-sans-sc | [![][assets-webfont-harmony-sans-sc-release]][assets-webfont-harmony-sans-sc-release-url] | [ALIYUN-UNPKG][assets-webfont-harmony-sans-sc-unpkg] |
 
 <!-- @lobehub/assets-logo -->
 
 [assets-logo-release]: https://img.shields.io/npm/v/@lobehub/assets-logo?label=%F0%9F%A4%AF%20NPM
 [assets-logo-release-url]: https://www.npmjs.com/package/@lobehub/assets-logo
-[assets-logo-unpkg]: https://npm.elemecdn.com/@lobehub/assets-logo
+[assets-logo-unpkg]: https://registry.npmmirror.com/@lobehub/assets-logo
 
 <!-- @lobehub/assets-favicons -->
 
 [assets-favicons-release]: https://img.shields.io/npm/v/@lobehub/assets-favicons?label=%F0%9F%A4%AF%20NPM
 [assets-favicons-release-url]: https://www.npmjs.com/package/@lobehub/assets-favicons
-[assets-favicons-unpkg]: https://npm.elemecdn.com/@lobehub/assets-favicons
+[assets-favicons-unpkg]: https://registry.npmmirror.com/@lobehub/assets-favicons
 
 <!-- @lobehub/assets-emoji -->
 
@@ -102,19 +102,19 @@ Logo assets, favicons, webfonts for LobeHub
 
 [assets-webfont-mono-release]: https://img.shields.io/npm/v/@lobehub/webfont-mono?label=%F0%9F%A4%AF%20NPM
 [assets-webfont-mono-release-url]: https://www.npmjs.com/package/@lobehub/webfont-mono
-[assets-webfont-mono-unpkg]: https://npm.elemecdn.com/@lobehub/webfont-mono
+[assets-webfont-mono-unpkg]: https://registry.npmmirror.com/@lobehub/webfont-mono
 
 <!-- @lobehub/webfont-harmony-sans -->
 
 [assets-webfont-harmony-sans-release]: https://img.shields.io/npm/v/@lobehub/webfont-harmony-sans?label=%F0%9F%A4%AF%20NPM
 [assets-webfont-harmony-sans-release-url]: https://www.npmjs.com/package/@lobehub/webfont-harmony-sans
-[assets-webfont-harmony-sans-unpkg]: https://npm.elemecdn.com/@lobehub/webfont-harmony-sans
+[assets-webfont-harmony-sans-unpkg]: https://registry.npmmirror.com/@lobehub/webfont-harmony-sans
 
 <!-- @lobehub/webfont-harmony-sans-sc -->
 
 [assets-webfont-harmony-sans-sc-release]: https://img.shields.io/npm/v/@lobehub/webfont-harmony-sans-sc?label=%F0%9F%A4%AF%20NPM
 [assets-webfont-harmony-sans-sc-release-url]: https://www.npmjs.com/package/@lobehub/webfont-harmony-sans-sc
-[assets-webfont-harmony-sans-sc-unpkg]: https://npm.elemecdn.com/@lobehub/webfont-harmony-sans-sc
+[assets-webfont-harmony-sans-sc-unpkg]: https://registry.npmmirror.com/@lobehub/webfont-harmony-sans-sc
 
 <div align="right">
 
@@ -124,15 +124,15 @@ Logo assets, favicons, webfonts for LobeHub
 
 ## 🤯 Logos
 
-| <img src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-3d.webp" width="64" > | <img src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-flat.svg" width="64" > | <img src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-high-contrast.svg" width="64" > | <img src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-text.svg" width="64" > |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [Logo 3D][logo-3d]                                                                        | [Logo Flat][logo-flat]                                                                     | [Logo High Contrast][logo-high-contrast]                                                            | [Logo Text][logo-text]                                                                     |
-| webp                                                                                      | svg                                                                                        | svg                                                                                                 | svg                                                                                        |
+| <img src="https://https://registry.npmmirror.com/@lobehub/assets-logo/1.0.0/files/assets/logo-3d.webp" width="64" > | <img src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-flat.svg" width="64" > | <img src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-high-contrast.svg" width="64" > | <img src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-text.svg" width="64" > |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [Logo 3D][logo-3d]                                                                                                  | [Logo Flat][logo-flat]                                                                     | [Logo High Contrast][logo-high-contrast]                                                            | [Logo Text][logo-text]                                                                     |
+| webp                                                                                                                | svg                                                                                        | svg                                                                                                 | svg                                                                                        |
 
-[logo-3d]: https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-3d.webp
-[logo-flat]: https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-flat.svg
-[logo-high-contrast]: https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-high-contrast.svg
-[logo-text]: https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-text.svg
+[logo-3d]: https://https://registry.npmmirror.com/@lobehub/assets-logo/1.1.0/files//assets/logo-3d.webp
+[logo-flat]: https://https://registry.npmmirror.com/@lobehub/assets-logo/1.1.0/files//assets/logo-flat.svg
+[logo-high-contrast]: https://https://registry.npmmirror.com/@lobehub/assets-logo/1.1.0/files//assets/logo-high-contrast.svg
+[logo-text]: https://https://registry.npmmirror.com/@lobehub/assets-logo/1.1.0/files/assets/logo-text.svg
 
 <div align="right">
 
@@ -149,11 +149,11 @@ This package was generated with [RealFaviconGenerator](https://realfavicongenera
 Insert the following code in the `head` section of your pages:
 
 ```
-<link rel="apple-touch-icon" sizes="180x180" href="https://npm.elemecdn.com/@lobehub/assets-favicons/assets/apple-touch-icon.png" />
-<link rel="icon" type="image/png" sizes="32x32" href="https://npm.elemecdn.com/@lobehub/assets-favicons/assets/favicon-32x32.png" />
-<link rel="icon" type="image/png" sizes="16x16" href="https://npm.elemecdn.com/@lobehub/assets-favicons/assets/favicon-16x16.png" />
-<link rel="manifest" href="https://npm.elemecdn.com/@lobehub/assets-favicons/assets/site.webmanifest" />
-<link rel="mask-icon" href="https://npm.elemecdn.com/@lobehub/assets-favicons/assets/safari-pinned-tab.svg" color="#000000" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://registry.npmmirror.com/@lobehub/assets-favicons/1.1.0/files/assets/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://registry.npmmirror.com/@lobehub/assets-favicons/1.1.0/files/assets/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://registry.npmmirror.com/@lobehub/assets-favicons/1.1.0/files/assets/favicon-16x16.png" />
+<link rel="manifest" href="https://registry.npmmirror.com/@lobehub/assets-favicons/1.1.0/files/assets/site.webmanifest" />
+<link rel="mask-icon" href="https://registry.npmmirror.com/@lobehub/assets-favicons/1.1.0/files/assets/safari-pinned-tab.svg" color="#000000" />
 <meta name="apple-mobile-web-app-title" content="LobeHub" />
 <meta name="application-name" content="LobeHub" />
 <meta name="msapplication-TileColor" content="#000000" />
@@ -202,31 +202,31 @@ https://registry.npmmirror.com/@lobehub/assets-emoji-anim/1.0.0/files < emoji-na
 
 ## 🔤 Webfonts
 
-[`Hack Nerd Font Mono`](https://npm.elemecdn.com/@lobehub/webfont-mono/css/index.css)
+[`Hack Nerd Font Mono`](https://registry.npmmirror.com/@lobehub/webfont-mono/1.0.0/files/css/index.css)
 
 ```sh
 # lite
-https://npm.elemecdn.com/@lobehub/webfont-mono/css/index.css
+https://registry.npmmirror.com/@lobehub/webfont-mono/1.0.0/files/css/index.css
 # full
-https://npm.elemecdn.com/@lobehub/webfont-mono/css/index-full.css
+https://registry.npmmirror.com/@lobehub/webfont-mono/1.0.0/files/css/index-full.css
 ```
 
-[`HarmonyOS Sans`](https://npm.elemecdn.com/@lobehub/webfont-harmony-sans/css/index.css)
+[`HarmonyOS Sans`](https://registry.npmmirror.com/@lobehub/webfont-harmony-sans/1.0.0/files/webfont-harmony-sans/css/index.css)
 
 ```sh
 # lite
-https://npm.elemecdn.com/@lobehub/webfont-harmony-sans/css/index.css
+https://registry.npmmirror.com/@lobehub/webfont-harmony-sans/1.0.0/files/css/index.css
 # full
-https://npm.elemecdn.com/@lobehub/webfont-harmony-sans/css/index-full.css
+https://registry.npmmirror.com/@lobehub/webfont-harmony-sans/1.0.0/files/css/index-full.css
 ```
 
-[`HarmonyOS Sans SC`](https://npm.elemecdn.com/@lobehub/webfont-harmony-sans-sc/css/index.css)
+[`HarmonyOS Sans SC`](https://registry.npmmirror.com/@lobehub/webfont-harmony-sans-sc/1.0.0/files/css/index.css)
 
 ```sh
 # lite
-https://npm.elemecdn.com/@lobehub/webfont-harmony-sans-sc/css/index.css
+https://registry.npmmirror.com/@lobehub/webfont-harmony-sans-sc/1.0.0/files/css/index.css
 # full
-https://npm.elemecdn.com/@lobehub/webfont-harmony-sans-sc/css/index-full.css
+https://registry.npmmirror.com/@lobehub/webfont-harmony-sans-sc/1.0.0/files/css/index-full.css
 ```
 
 <div align="right">
