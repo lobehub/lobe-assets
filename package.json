@@ -62,7 +62,7 @@
     "@types/node": "latest",
     "clean-pkg-json": "^1",
     "cli-real-favicon": "latest",
-    "commitlint": "^17",
+    "commitlint": "^18",
     "eslint": "^8",
     "favicons": "^7",
     "fontmin": "latest",
