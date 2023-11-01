@@ -20,7 +20,7 @@ jobs:
           version: latest
 
       - name: 🏗 准备 Node.js 环境
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '16'
 
