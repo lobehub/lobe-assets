@@ -57,7 +57,7 @@
     ]
   },
   "devDependencies": {
-    "@commitlint/cli": "^17",
+    "@commitlint/cli": "^18",
     "@lobehub/lint": "latest",
     "@types/node": "latest",
     "clean-pkg-json": "^1",
