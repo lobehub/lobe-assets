@@ -71,7 +71,7 @@
     "multi-semantic-release": "^3",
     "remark": "^14",
     "remark-cli": "^11",
-    "semantic-release": "^21",
+    "semantic-release": "^22",
     "sharp": "latest",
     "stylelint": "^15",
     "svgo": "latest",
