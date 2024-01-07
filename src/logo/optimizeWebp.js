@@ -9,7 +9,7 @@ const optimizeWebp = (icons, size = 480) => {
     image
       .resize(size, size)
       .webp()
-      .toFile(path.resolve(__dirname, '../../packages/assets-logo', newIconName));
+      .toFile(path.resolve(__dirname, '../../packages/assets-logo/assets', newIconName));
     console.log(`✅ ${icon}`);
   }
 };
