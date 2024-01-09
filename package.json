@@ -23,7 +23,7 @@
     "packages/*"
   ],
   "scripts": {
-    "build:favicons": "real-favicon generate src/favicons/faviconDescription.json favicons/faviconData.json favicons",
+    "build:favicons": "real-favicon generate src/favicons/faviconDescription.json packages/assets-favicons/assets/faviconData.json packages/assets-favicons/assets",
     "build:logo": "node src/logo/index.js",
     "build:webfonts": "node src/webfonts/index.js",
     "clean": "lerna run clean && rm -rf es lib dist build coverage .umi .eslintcache apis",
@@ -35,7 +35,7 @@
     "reinstall": "npm run clean && lerna clean && rm -rf node_modules && npm run",
     "release": "multi-semantic-release",
     "release:local": "multi-semantic-release --no-ci",
-    "test": "real-favicon check-for-update --fail-on-update favicons/faviconData.json"
+    "test": "real-favicon check-for-update --fail-on-update packages/assets-favicons/assets/faviconData.json"
   },
   "lint-staged": {
     "*.md": [

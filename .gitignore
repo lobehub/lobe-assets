@@ -30,6 +30,7 @@ es
 lib
 logs
 test-output
+packages/assets-favicons/assets/faviconData.json
 
 # umi
 .umi
