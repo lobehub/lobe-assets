@@ -43,7 +43,10 @@ const optimizeSvg = (icons) => {
   for (const icon of icons) {
     const iconSvg = fs.readFileSync(path.resolve(__dirname, '../assets', icon));
     const result = optimize(iconSvg, config);
-    fs.writeFileSync(path.resolve(__dirname, '../../packages/logo/assets', icon), result.data);
+    fs.writeFileSync(
+      path.resolve(__dirname, '../../packages/assets-logo/assets', icon),
+      result.data,
+    );
     console.log(`✅ ${icon}`);
   }
 };

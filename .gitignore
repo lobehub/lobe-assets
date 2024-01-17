@@ -30,6 +30,8 @@ es
 lib
 logs
 test-output
+packages/assets-favicons/assets/faviconData.json
+webfonts
 
 # umi
 .umi
