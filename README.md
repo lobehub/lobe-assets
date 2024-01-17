@@ -32,21 +32,13 @@ Logo assets, favicons, webfonts for LobeHub
 #### TOC
 
 - [📦 Packages](#-packages)
-
 - [🤯 Logos](#-logos)
-
 - [💞 Favicons](#-favicons)
-
 - [😀Emoji](#emoji)
-
   - [Animation Emoji](#animation-emoji)
-
 - [🔤 Webfonts](#-webfonts)
-
 - [⌨️ Local Development](#️-local-development)
-
 - [🤝 Contributing](#-contributing)
-
 - [🔗 Credits](#-credits)
 
 ####
@@ -70,51 +62,19 @@ Logo assets, favicons, webfonts for LobeHub
 
 <!-- @lobehub/assets-logo -->
 
-[assets-logo-release]: https://img.shields.io/npm/v/@lobehub/assets-logo?label=%F0%9F%A4%AF%20NPM
-[assets-logo-release-url]: https://www.npmjs.com/package/@lobehub/assets-logo
-[assets-logo-unpkg]: https://registry.npmmirror.com/@lobehub/assets-logo
-
 <!-- @lobehub/assets-favicons -->
-
-[assets-favicons-release]: https://img.shields.io/npm/v/@lobehub/assets-favicons?label=%F0%9F%A4%AF%20NPM
-[assets-favicons-release-url]: https://www.npmjs.com/package/@lobehub/assets-favicons
-[assets-favicons-unpkg]: https://registry.npmmirror.com/@lobehub/assets-favicons
 
 <!-- @lobehub/assets-emoji -->
 
-[assets-emoji-release]: https://img.shields.io/npm/v/@lobehub/assets-emoji?label=%F0%9F%A4%AF%20NPM
-[assets-emoji-release-url]: https://www.npmjs.com/package/@lobehub/assets-emoji
-[assets-emoji-unpkg]: https://registry.npmmirror.com/@lobehub/assets-emoji
-
 <!-- @lobehub/assets-emoji-anim -->
-
-[assets-emoji-anim-release]: https://img.shields.io/npm/v/@lobehub/assets-emoji-anim?label=%F0%9F%A4%AF%20NPM
-[assets-emoji-anim-release-url]: https://www.npmjs.com/package/@lobehub/assets-emoji-anim
-[assets-emoji-anim-unpkg]: https://registry.npmmirror.com/@lobehub/assets-emoji-anim
 
 <!-- @lobehub/emojilib -->
 
-[emojilib-release]: https://img.shields.io/npm/v/@lobehub/emojilib?label=%F0%9F%A4%AF%20NPM
-[emojilib-release-url]: https://www.npmjs.com/package/@lobehub/emojilib
-[emojilib-unpkg]: https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/emojilib/index.json
-
 <!-- @lobehub/webfont-mono -->
-
-[assets-webfont-mono-release]: https://img.shields.io/npm/v/@lobehub/webfont-mono?label=%F0%9F%A4%AF%20NPM
-[assets-webfont-mono-release-url]: https://www.npmjs.com/package/@lobehub/webfont-mono
-[assets-webfont-mono-unpkg]: https://registry.npmmirror.com/@lobehub/webfont-mono
 
 <!-- @lobehub/webfont-harmony-sans -->
 
-[assets-webfont-harmony-sans-release]: https://img.shields.io/npm/v/@lobehub/webfont-harmony-sans?label=%F0%9F%A4%AF%20NPM
-[assets-webfont-harmony-sans-release-url]: https://www.npmjs.com/package/@lobehub/webfont-harmony-sans
-[assets-webfont-harmony-sans-unpkg]: https://registry.npmmirror.com/@lobehub/webfont-harmony-sans
-
 <!-- @lobehub/webfont-harmony-sans-sc -->
-
-[assets-webfont-harmony-sans-sc-release]: https://img.shields.io/npm/v/@lobehub/webfont-harmony-sans-sc?label=%F0%9F%A4%AF%20NPM
-[assets-webfont-harmony-sans-sc-release-url]: https://www.npmjs.com/package/@lobehub/webfont-harmony-sans-sc
-[assets-webfont-harmony-sans-sc-unpkg]: https://registry.npmmirror.com/@lobehub/webfont-harmony-sans-sc
 
 <div align="right">
 
@@ -124,15 +84,10 @@ Logo assets, favicons, webfonts for LobeHub
 
 ## 🤯 Logos
 
-| <img src="https://https://registry.npmmirror.com/@lobehub/assets-logo/1.0.0/files/assets/logo-3d.webp" width="64" > | <img src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-flat.svg" width="64" > | <img src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-high-contrast.svg" width="64" > | <img src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-text.svg" width="64" > |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [Logo 3D][logo-3d]                                                                                                  | [Logo Flat][logo-flat]                                                                     | [Logo High Contrast][logo-high-contrast]                                                            | [Logo Text][logo-text]                                                                     |
-| webp                                                                                                                | svg                                                                                        | svg                                                                                                 | svg                                                                                        |
-
-[logo-3d]: https://https://registry.npmmirror.com/@lobehub/assets-logo/1.1.0/files//assets/logo-3d.webp
-[logo-flat]: https://https://registry.npmmirror.com/@lobehub/assets-logo/1.1.0/files//assets/logo-flat.svg
-[logo-high-contrast]: https://https://registry.npmmirror.com/@lobehub/assets-logo/1.1.0/files//assets/logo-high-contrast.svg
-[logo-text]: https://https://registry.npmmirror.com/@lobehub/assets-logo/1.1.0/files/assets/logo-text.svg
+| <img src="https://registry.npmmirror.com/@lobehub/assets-logo/1.0.0/files/assets/logo-3d.webp" width="64" > | <img src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-flat.svg" width="64" > | <img src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-high-contrast.svg" width="64" > | <img src="https://npm.elemecdn.com/@lobehub/assets-logo/assets/logo-text.svg" width="64" > |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [Logo 3D][logo-3d]                                                                                          | [Logo Flat][logo-flat]                                                                     | [Logo High Contrast][logo-high-contrast]                                                            | [Logo Text][logo-text]                                                                     |
+| webp                                                                                                        | svg                                                                                        | svg                                                                                                 | svg                                                                                        |
 
 <div align="right">
 
@@ -177,10 +132,6 @@ https://registry.npmmirror.com/@lobehub/assets-emoji/1.3.0/files < emoji-name > 
 | ![][emoji-1] | ![][emoji-2] | ![][emoji-3] |
 | ------------ | ------------ | ------------ |
 
-[emoji-1]: https://registry.npmmirror.com/@lobehub/assets-emoji/1.3.0/files/assets/face-with-diagonal-mouth.webp
-[emoji-2]: https://registry.npmmirror.com/@lobehub/assets-emoji/1.3.0/files/assets/face-with-hand-over-mouth.webp
-[emoji-3]: https://registry.npmmirror.com/@lobehub/assets-emoji/1.3.0/files/assets/face-with-peeking-eye.webp
-
 ### Animation Emoji
 
 ```bash
@@ -189,10 +140,6 @@ https://registry.npmmirror.com/@lobehub/assets-emoji-anim/1.0.0/files < emoji-na
 
 | ![][emoji-1] | ![][emoji-2] | ![][emoji-3] |
 | ------------ | ------------ | ------------ |
-
-[emoji-anim-1]: https://registry.npmmirror.com/@lobehub/assets-emoji-anim/1.0.0/files/assets/face-with-diagonal-mouth.webp
-[emoji-anim-2]: https://registry.npmmirror.com/@lobehub/assets-emoji-anim/1.0.0/files/assets/face-with-hand-over-mouth.webp
-[emoji-anim-3]: https://registry.npmmirror.com/@lobehub/assets-emoji-anim/1.0.0/files/files/assets/face-with-peeking-eye.webp
 
 <div align="right">
 
@@ -300,44 +247,67 @@ This project is [MIT](./LICENSE) licensed.
 
 <!-- LINK GROUP -->
 
-[profile-url]: https://github.com/lobehub
-[gitpod-url]: https://gitpod.io/#https://github.com/lobehub/lobe-assets
-
 <!-- SHIELD LINK GROUP -->
-
-[back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
 
 <!-- release -->
 
-[release-shield]: https://img.shields.io/npm/v/@lobehub/assets?label=%F0%9F%A4%AF%20NPM
-[release-url]: https://www.npmjs.com/package/@lobehub/assets
-
 <!-- releaseDate -->
-
-[release-date-shield]: https://img.shields.io/github/release-date/lobehub/lobe-assets?style=flat
-[release-date-url]: https://github.com/lobehub/lobe-assets/releases
 
 <!-- ciRelease -->
 
-[ci-release-shield]: https://github.com/lobehub/lobe-assets/workflows/Release%20CI/badge.svg
-[ci-release-url]: https://github.com/lobehub/lobe-assets/actions?query=workflow%3ARelease%20CI
-
 <!-- contributors -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/lobehub/lobe-assets.svg?style=flat
-[contributors-url]: https://github.com/lobehub/lobe-assets/graphs/contributors
 
 <!-- forks -->
 
-[forks-shield]: https://img.shields.io/github/forks/lobehub/lobe-assets.svg?style=flat
-[forks-url]: https://github.com/lobehub/lobe-assets/network/members
-
 <!-- stargazers -->
-
-[stargazers-shield]: https://img.shields.io/github/stars/lobehub/lobe-assets.svg?style=flat
-[stargazers-url]: https://github.com/lobehub/lobe-assets/stargazers
 
 <!-- issues -->
 
+[assets-emoji-anim-release]: https://img.shields.io/npm/v/@lobehub/assets-emoji-anim?label=%F0%9F%A4%AF%20NPM
+[assets-emoji-anim-release-url]: https://www.npmjs.com/package/@lobehub/assets-emoji-anim
+[assets-emoji-anim-unpkg]: https://registry.npmmirror.com/@lobehub/assets-emoji-anim
+[assets-emoji-release]: https://img.shields.io/npm/v/@lobehub/assets-emoji?label=%F0%9F%A4%AF%20NPM
+[assets-emoji-release-url]: https://www.npmjs.com/package/@lobehub/assets-emoji
+[assets-emoji-unpkg]: https://registry.npmmirror.com/@lobehub/assets-emoji
+[assets-favicons-release]: https://img.shields.io/npm/v/@lobehub/assets-favicons?label=%F0%9F%A4%AF%20NPM
+[assets-favicons-release-url]: https://www.npmjs.com/package/@lobehub/assets-favicons
+[assets-favicons-unpkg]: https://registry.npmmirror.com/@lobehub/assets-favicons
+[assets-logo-release]: https://img.shields.io/npm/v/@lobehub/assets-logo?label=%F0%9F%A4%AF%20NPM
+[assets-logo-release-url]: https://www.npmjs.com/package/@lobehub/assets-logo
+[assets-logo-unpkg]: https://registry.npmmirror.com/@lobehub/assets-logo
+[assets-webfont-harmony-sans-release]: https://img.shields.io/npm/v/@lobehub/webfont-harmony-sans?label=%F0%9F%A4%AF%20NPM
+[assets-webfont-harmony-sans-release-url]: https://www.npmjs.com/package/@lobehub/webfont-harmony-sans
+[assets-webfont-harmony-sans-sc-release]: https://img.shields.io/npm/v/@lobehub/webfont-harmony-sans-sc?label=%F0%9F%A4%AF%20NPM
+[assets-webfont-harmony-sans-sc-release-url]: https://www.npmjs.com/package/@lobehub/webfont-harmony-sans-sc
+[assets-webfont-harmony-sans-sc-unpkg]: https://registry.npmmirror.com/@lobehub/webfont-harmony-sans-sc
+[assets-webfont-harmony-sans-unpkg]: https://registry.npmmirror.com/@lobehub/webfont-harmony-sans
+[assets-webfont-mono-release]: https://img.shields.io/npm/v/@lobehub/webfont-mono?label=%F0%9F%A4%AF%20NPM
+[assets-webfont-mono-release-url]: https://www.npmjs.com/package/@lobehub/webfont-mono
+[assets-webfont-mono-unpkg]: https://registry.npmmirror.com/@lobehub/webfont-mono
+[back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
+[ci-release-shield]: https://github.com/lobehub/lobe-assets/workflows/Release%20CI/badge.svg
+[ci-release-url]: https://github.com/lobehub/lobe-assets/actions?query=workflow%3ARelease%20CI
+[contributors-shield]: https://img.shields.io/github/contributors/lobehub/lobe-assets.svg?style=flat
+[contributors-url]: https://github.com/lobehub/lobe-assets/graphs/contributors
+[emoji-1]: https://registry.npmmirror.com/@lobehub/assets-emoji/1.3.0/files/assets/face-with-diagonal-mouth.webp
+[emoji-2]: https://registry.npmmirror.com/@lobehub/assets-emoji/1.3.0/files/assets/face-with-hand-over-mouth.webp
+[emoji-3]: https://registry.npmmirror.com/@lobehub/assets-emoji/1.3.0/files/assets/face-with-peeking-eye.webp
+[emojilib-release]: https://img.shields.io/npm/v/@lobehub/emojilib?label=%F0%9F%A4%AF%20NPM
+[emojilib-release-url]: https://www.npmjs.com/package/@lobehub/emojilib
+[emojilib-unpkg]: https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/emojilib/index.json
+[forks-shield]: https://img.shields.io/github/forks/lobehub/lobe-assets.svg?style=flat
+[forks-url]: https://github.com/lobehub/lobe-assets/network/members
+[gitpod-url]: https://gitpod.io/#https://github.com/lobehub/lobe-assets
 [issues-shield]: https://img.shields.io/github/issues/lobehub/lobe-assets.svg?style=flat
 [issues-url]: https://github.com/lobehub/lobe-assets/issues/new/choose
+[logo-3d]: https://https://registry.npmmirror.com/@lobehub/assets-logo/1.1.0/files//assets/logo-3d.webp
+[logo-flat]: https://https://registry.npmmirror.com/@lobehub/assets-logo/1.1.0/files//assets/logo-flat.svg
+[logo-high-contrast]: https://https://registry.npmmirror.com/@lobehub/assets-logo/1.1.0/files//assets/logo-high-contrast.svg
+[logo-text]: https://https://registry.npmmirror.com/@lobehub/assets-logo/1.1.0/files/assets/logo-text.svg
+[profile-url]: https://github.com/lobehub
+[release-date-shield]: https://img.shields.io/github/release-date/lobehub/lobe-assets?style=flat
+[release-date-url]: https://github.com/lobehub/lobe-assets/releases
+[release-shield]: https://img.shields.io/npm/v/@lobehub/assets?label=%F0%9F%A4%AF%20NPM
+[release-url]: https://www.npmjs.com/package/@lobehub/assets
+[stargazers-shield]: https://img.shields.io/github/stars/lobehub/lobe-assets.svg?style=flat
+[stargazers-url]: https://github.com/lobehub/lobe-assets/stargazers
