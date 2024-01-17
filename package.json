@@ -67,7 +67,7 @@
     "favicons": "^7",
     "fontmin": "latest",
     "husky": "^8",
-    "lint-staged": "^14",
+    "lint-staged": "^15",
     "multi-semantic-release": "^3",
     "remark": "^14",
     "remark-cli": "^11",
