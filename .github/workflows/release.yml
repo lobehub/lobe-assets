@@ -14,26 +14,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: ⚙ 设置 pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: latest
+      - name: Install bun
+        uses: oven-sh/setup-bun@v1
 
-      - name: 🏗 准备 Node.js 环境
-        uses: actions/setup-node@v4
-        with:
-          node-version: '16'
-
-      - name: 🗳 安装依赖
-        run: pnpm install
+      - name: Install deps
+        run: bun i
 
       # npm 8 和 9 会在 `npm version` 时执行依赖树命令，进而报错退出
       # Refs: https://github.com/semantic-release/npm/issues/540
       - name: Setup npm 7
         run: npm i -g npm@7 --registry=https://registry.npmjs.org
 
-      - name: 🚀 npm 包发布
-        run: pnpm run release
+      - name: Release
+        run: bun run release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
