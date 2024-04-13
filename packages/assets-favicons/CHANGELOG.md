@@ -2,6 +2,31 @@
 
 # Changelog
 
+## [Version 1.5.0](https://github.com/lobehub/lobe-assets/compare/@lobehub/assets-favicons@1.4.0...@lobehub/assets-favicons@1.5.0)
+
+<sup>Released on **2024-04-13**</sup>
+
+#### ✨ Features
+
+- **misc**: Add vidol og assets.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Add vidol og assets ([c0d5964](https://github.com/lobehub/lobe-assets/commit/c0d5964))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.4.0](https://github.com/lobehub/lobe-assets/compare/@lobehub/assets-favicons@1.3.0...@lobehub/assets-favicons@1.4.0)
 
 <sup>Released on **2023-09-27**</sup>
