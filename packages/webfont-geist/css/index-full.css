@@ -1,0 +1,175 @@
+@charset "UTF-8";
+
+/* Thin */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_Thin), local('Geist Thin'), url('../fonts/Geist-Thin.woff2') format('woff2');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Thin Italic */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_Thin_Italic), local('Geist Thin Italic'),
+    url('../fonts/Geist-ThinItalic.woff2') format('woff2');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Extra Light */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_ExtraLight), local('Geist Extra Light'),
+    url('../fonts/Geist-ExtraLight.woff2') format('woff2');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Extra Light Italic */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_ExtraLight_Italic), local('Geist Extra Light Italic'),
+    url('../fonts/Geist-ExtraLightItalic.woff2') format('woff2');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Light */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_Light), local('Geist Light'), url('../fonts/Geist-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Light Italic */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_Light_Italic), local('Geist Light Italic'),
+    url('../fonts/Geist-LightItalic.woff2') format('woff2');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Regular */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_Regular), local(Geist), local('Geist Regular'),
+    url('../fonts/Geist-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Regular Italic */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_Italic), local('Geist Italic'), url('../fonts/Geist-Italic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Medium */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_Medium), local('Geist Medium'), url('../fonts/Geist-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Medium Italic */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_Medium_Italic), local('Geist Medium Italic'),
+    url('../fonts/Geist-MediumItalic.woff2') format('woff2');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Semi Bold */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_SemiBold), local('Geist Semi Bold'),
+    url('../fonts/Geist-SemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Semi Bold Italic */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_SemiBold_Italic), local('Geist Semi Bold Italic'),
+    url('../fonts/Geist-SemiBoldItalic.woff2') format('woff2');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_Bold), local('Geist Bold'), url('../fonts/Geist-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Bold Italic */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_Bold_Italic), local('Geist Bold Italic'),
+    url('../fonts/Geist-BoldItalic.woff2') format('woff2');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Extra Bold */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_ExtraBold), local('Geist Extra Bold'),
+    url('../fonts/Geist-ExtraBold.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Extra Bold Italic */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_ExtraBold_Italic), local('Geist Extra Bold Italic'),
+    url('../fonts/Geist-ExtraBoldItalic.woff2') format('woff2');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Black */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_Black), local('Geist Black'), url('../fonts/Geist-Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Black Italic */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_Black_Italic), local('Geist Black Italic'),
+    url('../fonts/Geist-BlackItalic.woff2') format('woff2');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

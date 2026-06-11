@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+/* Light */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_Light), local('Geist Light'), url('../fonts/Geist-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Regular */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_Regular), local(Geist), local('Geist Regular'),
+    url('../fonts/Geist-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Medium */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_Medium), local('Geist Medium'), url('../fonts/Geist-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'Geist';
+  src: local(Geist_Bold), local('Geist Bold'), url('../fonts/Geist-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}

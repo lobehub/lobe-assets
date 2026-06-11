@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+/* Regular */
+@font-face {
+  font-family: 'Geist Mono';
+  src: local(GeistMono_Regular), local(Geist_Mono), local('Geist Mono'),
+    local('Geist Mono Regular'), url('../fonts/GeistMono-Regular.otf') format('opentype');
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Regular Italic */
+@font-face {
+  font-family: 'Geist Mono';
+  src: local(GeistMono_Italic), local('Geist Mono Italic'),
+    url('../fonts/GeistMono-Italic.otf') format('opentype');
+  font-stretch: normal;
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'Geist Mono';
+  src: local(GeistMono_Bold), local('Geist Mono Bold'), url('../fonts/GeistMono-Bold.otf') format('opentype');
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+/* Bold Italic */
+@font-face {
+  font-family: 'Geist Mono';
+  src: local(GeistMono_Bold_Italic), local('Geist Mono Bold Italic'),
+    url('../fonts/GeistMono-BoldItalic.otf') format('opentype');
+  font-stretch: normal;
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+}
