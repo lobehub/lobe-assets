@@ -53,9 +53,12 @@ Logo assets, favicons, webfonts for LobeHub
 | @lobehub/assets-emoji            | [![][assets-emoji-release]][assets-emoji-release-url]                                     | [ALIYUN-UNPKG][assets-emoji-unpkg]                   |
 | @lobehub/assets-emoji-anim       | [![][assets-emoji-anim-release]][assets-emoji-anim-release-url]                           | [ALIYUN-UNPKG][assets-emoji-anim-unpkg]              |
 | @lobehub/emojilib                | [![][emojilib-release]][emojilib-release-url]                                             | [RAW][emojilib-unpkg]                                |
-| @lobehub/webfont-mono            | [![][assets-webfont-mono-release]][assets-webfont-mono-release-url]                       | [ALIYUN-UNPKG][assets-webfont-mono-unpkg]            |
-| @lobehub/webfont-harmony-sans    | [![][assets-webfont-harmony-sans-release]][assets-webfont-harmony-sans-release-url]       | [ALIYUN-UNPKG][assets-webfont-harmony-sans-unpkg]    |
-| @lobehub/webfont-harmony-sans-sc | [![][assets-webfont-harmony-sans-sc-release]][assets-webfont-harmony-sans-sc-release-url] | [ALIYUN-UNPKG][assets-webfont-harmony-sans-sc-unpkg] |
+| @lobehub/webfont-mono                  | [![][assets-webfont-mono-release]][assets-webfont-mono-release-url]                               | [ALIYUN-UNPKG][assets-webfont-mono-unpkg]                  |
+| @lobehub/webfont-harmony-sans          | [![][assets-webfont-harmony-sans-release]][assets-webfont-harmony-sans-release-url]               | [ALIYUN-UNPKG][assets-webfont-harmony-sans-unpkg]          |
+| @lobehub/webfont-harmony-sans-sc       | [![][assets-webfont-harmony-sans-sc-release]][assets-webfont-harmony-sans-sc-release-url]         | [ALIYUN-UNPKG][assets-webfont-harmony-sans-sc-unpkg]       |
+| @lobehub/webfont-harmony-sans-sc-mini  | [![][assets-webfont-harmony-sans-sc-mini-release]][assets-webfont-harmony-sans-sc-mini-release-url] | [ALIYUN-UNPKG][assets-webfont-harmony-sans-sc-mini-unpkg] |
+| @lobehub/webfont-geist                 | [![][assets-webfont-geist-release]][assets-webfont-geist-release-url]                             | [ALIYUN-UNPKG][assets-webfont-geist-unpkg]                 |
+| @lobehub/webfont-geist-mono            | [![][assets-webfont-geist-mono-release]][assets-webfont-geist-mono-release-url]                   | [ALIYUN-UNPKG][assets-webfont-geist-mono-unpkg]            |
 
 <div align="right">
 
@@ -157,6 +160,35 @@ https://registry.npmmirror.com/@lobehub/webfont-harmony-sans-sc/latest/files/css
 https://registry.npmmirror.com/@lobehub/webfont-harmony-sans-sc/latest/files/css/index-full.css
 ```
 
+[`HarmonyOS Sans SC Mini`](https://registry.npmmirror.com/@lobehub/webfont-harmony-sans-sc-mini/latest/files/css/index.css)
+
+Subset webfont package using `unicode-range` to split HarmonyOS Sans SC into one base subset and ten CJK subsets.
+
+```sh
+# lite
+https://registry.npmmirror.com/@lobehub/webfont-harmony-sans-sc-mini/latest/files/css/index.css
+# full
+https://registry.npmmirror.com/@lobehub/webfont-harmony-sans-sc-mini/latest/files/css/index-full.css
+```
+
+[`Geist`](https://registry.npmmirror.com/@lobehub/webfont-geist/latest/files/css/index.css)
+
+```sh
+# lite
+https://registry.npmmirror.com/@lobehub/webfont-geist/latest/files/css/index.css
+# full
+https://registry.npmmirror.com/@lobehub/webfont-geist/latest/files/css/index-full.css
+```
+
+[`Geist Mono`](https://registry.npmmirror.com/@lobehub/webfont-geist-mono/latest/files/css/index.css)
+
+```sh
+# lite
+https://registry.npmmirror.com/@lobehub/webfont-geist-mono/latest/files/css/index.css
+# full
+https://registry.npmmirror.com/@lobehub/webfont-geist-mono/latest/files/css/index-full.css
+```
+
 <div align="right">
 
 [![][back-to-top]](#readme-top)
@@ -203,6 +235,7 @@ Contributions of all types are more than welcome, if you are interested in contr
 
 - real-fav-icon: <https://realfavicongenerator.net/>
 - harmonyos-fonts: <https://github.com/IKKI2000/harmonyos-fonts>
+- geist-font: <https://vercel.com/font>
 
 <div align="right">
 
@@ -233,6 +266,15 @@ This project is [MIT](./LICENSE) licensed.
 [assets-logo-unpkg]: https://registry.npmmirror.com/@lobehub/assets-logo
 [assets-webfont-harmony-sans-release]: https://img.shields.io/npm/v/@lobehub/webfont-harmony-sans?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [assets-webfont-harmony-sans-release-url]: https://www.npmjs.com/package/@lobehub/webfont-harmony-sans
+[assets-webfont-geist-mono-release]: https://img.shields.io/npm/v/@lobehub/webfont-geist-mono?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+[assets-webfont-geist-mono-release-url]: https://www.npmjs.com/package/@lobehub/webfont-geist-mono
+[assets-webfont-geist-mono-unpkg]: https://registry.npmmirror.com/@lobehub/webfont-geist-mono
+[assets-webfont-geist-release]: https://img.shields.io/npm/v/@lobehub/webfont-geist?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+[assets-webfont-geist-release-url]: https://www.npmjs.com/package/@lobehub/webfont-geist
+[assets-webfont-geist-unpkg]: https://registry.npmmirror.com/@lobehub/webfont-geist
+[assets-webfont-harmony-sans-sc-mini-release]: https://img.shields.io/npm/v/@lobehub/webfont-harmony-sans-sc-mini?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+[assets-webfont-harmony-sans-sc-mini-release-url]: https://www.npmjs.com/package/@lobehub/webfont-harmony-sans-sc-mini
+[assets-webfont-harmony-sans-sc-mini-unpkg]: https://registry.npmmirror.com/@lobehub/webfont-harmony-sans-sc-mini
 [assets-webfont-harmony-sans-sc-release]: https://img.shields.io/npm/v/@lobehub/webfont-harmony-sans-sc?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [assets-webfont-harmony-sans-sc-release-url]: https://www.npmjs.com/package/@lobehub/webfont-harmony-sans-sc
 [assets-webfont-harmony-sans-sc-unpkg]: https://registry.npmmirror.com/@lobehub/webfont-harmony-sans-sc
