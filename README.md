@@ -1,8 +1,8 @@
 <div align="center"><a name="readme-top"></a>
 
-<img height="120" src="https://registry.npmmirror.com/@lobehub/assets-logo/latest/files/assets/logo-3d.webp">
+<img height="120" src="https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-logo/assets/logo-3d.webp">
 <img height="120" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.svg">
-<img height="120" src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/package.webp">
+<img height="120" src="https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-emoji/assets/package.webp">
 
 <h1>Lobe Assets</h1>
 
@@ -68,7 +68,7 @@ Logo assets, favicons, webfonts for LobeHub
 
 ## 🤯 Logos
 
-| <img src="https://registry.npmmirror.com/@lobehub/assets-logo/latest/files/assets/logo-3d.webp" width="64" > | <img src="https://registry.npmmirror.com/@lobehub/assets-logo/latest/files/assets/logo-flat.svg" width="64" > | <img src="https://registry.npmmirror.com/@lobehub/assets-logo/latest/files/assets/logo-high-contrast.svg" width="64" > | <img src="https://registry.npmmirror.com/@lobehub/assets-logo/latest/files/assets/logo-text.svg" width="64" > |
+| <img src="https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-logo/assets/logo-3d.webp" width="64" > | <img src="https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-logo/assets/logo-flat.svg" width="64" > | <img src="https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-logo/assets/logo-high-contrast.svg" width="64" > | <img src="https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-logo/assets/logo-text.svg" width="64" > |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | [Logo 3D][logo-3d]                                                                                           | [Logo Flat][logo-flat]                                                                                        | [Logo High Contrast][logo-high-contrast]                                                                               | [Logo Text][logo-text]                                                                                        |
 | webp                                                                                                         | svg                                                                                                           | svg                                                                                                                    | svg                                                                                                           |
@@ -88,11 +88,11 @@ This package was generated with [RealFaviconGenerator](https://realfavicongenera
 Insert the following code in the `head` section of your pages:
 
 ```
-<link rel="apple-touch-icon" sizes="180x180" href="https://registry.npmmirror.com/@lobehub/assets-favicons/latest/files/assets/apple-touch-icon.png" />
-<link rel="icon" type="image/png" sizes="32x32" href="https://registry.npmmirror.com/@lobehub/assets-favicons/latest/files/assets/favicon-32x32.png" />
-<link rel="icon" type="image/png" sizes="16x16" href="https://registry.npmmirror.com/@lobehub/assets-favicons/latest/files/assets/favicon-16x16.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-favicons/assets/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-favicons/assets/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-favicons/assets/favicon-16x16.png" />
 <link rel="manifest" href="https://registry.npmmirror.com/@lobehub/assets-favicons/latest/files/assets/site.webmanifest" />
-<link rel="mask-icon" href="https://registry.npmmirror.com/@lobehub/assets-favicons/latest/files/assets/safari-pinned-tab.svg" color="#000000" />
+<link rel="mask-icon" href="https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-favicons/assets/safari-pinned-tab.svg" color="#000000" />
 <meta name="apple-mobile-web-app-title" content="LobeHub" />
 <meta name="application-name" content="LobeHub" />
 <meta name="msapplication-TileColor" content="#000000" />
@@ -285,12 +285,12 @@ This project is [MIT](./LICENSE) licensed.
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
 [bun-link]: https://bun.sh
 [bun-shield]: https://img.shields.io/badge/-speedup%20with%20bun-black?logo=bun&style=for-the-badge
-[emoji-1]: https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/face-with-diagonal-mouth.webp
-[emoji-1-a]: https://registry.npmmirror.com/@lobehub/assets-emoji-anim/latest/files/assets/face-with-diagonal-mouth.webp
-[emoji-2]: https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/face-with-hand-over-mouth.webp
-[emoji-2-a]: https://registry.npmmirror.com/@lobehub/assets-emoji-anim/latest/files/assets/face-with-hand-over-mouth.webp
-[emoji-3]: https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/face-with-peeking-eye.webp
-[emoji-3-a]: https://registry.npmmirror.com/@lobehub/assets-emoji-anim/latest/files/assets/face-with-peeking-eye.webp
+[emoji-1]: https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-emoji/assets/face-with-diagonal-mouth.webp
+[emoji-1-a]: https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-emoji-anim/assets/face-with-diagonal-mouth.webp
+[emoji-2]: https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-emoji/assets/face-with-hand-over-mouth.webp
+[emoji-2-a]: https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-emoji-anim/assets/face-with-hand-over-mouth.webp
+[emoji-3]: https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-emoji/assets/face-with-peeking-eye.webp
+[emoji-3-a]: https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-emoji-anim/assets/face-with-peeking-eye.webp
 [emojilib-release]: https://img.shields.io/npm/v/@lobehub/emojilib?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [emojilib-release-url]: https://www.npmjs.com/package/@lobehub/emojilib
 [emojilib-unpkg]: https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/emojilib/index.json
@@ -314,10 +314,10 @@ This project is [MIT](./LICENSE) licensed.
 [github-releasedate-shield]: https://img.shields.io/github/release-date/lobehub/lobe-assets?labelColor=black&style=flat-square
 [github-stars-link]: https://github.com/lobehub/lobe-assets/network/stargazers
 [github-stars-shield]: https://img.shields.io/github/stars/lobehub/lobe-assets?color=ffcb47&labelColor=black&style=flat-square
-[logo-3d]: https://https://registry.npmmirror.com/@lobehub/assets-logo/latest/files//assets/logo-3d.webp
-[logo-flat]: https://https://registry.npmmirror.com/@lobehub/assets-logo/latestfiles//assets/logo-flat.svg
-[logo-high-contrast]: https://https://registry.npmmirror.com/@lobehub/assets-logo/latest/files//assets/logo-high-contrast.svg
-[logo-text]: https://https://registry.npmmirror.com/@lobehub/assets-logo/latest/files/assets/logo-text.svg
+[logo-3d]: https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-logo/assets/logo-3d.webp
+[logo-flat]: https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-logo/assets/logo-flat.svg
+[logo-high-contrast]: https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-logo/assets/logo-high-contrast.svg
+[logo-text]: https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-logo/assets/logo-text.svg
 [pr-welcome-link]: https://github.com/lobehub/lobe-assets/pulls
 [pr-welcome-shield]: https://img.shields.io/badge/%F0%9F%A4%AF%20PR%20WELCOME-%E2%86%92-ffcb47?labelColor=black&style=for-the-badge
 [profile-url]: https://github.com/lobehub
