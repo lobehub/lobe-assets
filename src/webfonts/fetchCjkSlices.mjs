@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import prettier from 'prettier';
 
 const CSS_URL = 'https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400&display=swap';
 const OUTPUT = path.resolve(import.meta.dirname, 'cjkSlices.json');
@@ -21,5 +22,6 @@ const slices = faces
   .sort((a, b) => b.order - a.order)
   .map(({ ranges }) => ranges.map((range) => range.replace('U+', '')));
 
-fs.writeFileSync(OUTPUT, `${JSON.stringify(slices)}\n`);
+const options = await prettier.resolveConfig(OUTPUT);
+fs.writeFileSync(OUTPUT, await prettier.format(JSON.stringify(slices), { ...options, parser: 'json' }));
 console.log(`✂️ ${slices.length} slices → ${path.relative(process.cwd(), OUTPUT)}`);
