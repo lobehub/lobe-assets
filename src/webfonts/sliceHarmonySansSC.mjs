@@ -61,9 +61,7 @@ const toUnicodeRange = (codePoints) => {
 
 const fontFace = ({ font, fileName, unicodeRange, weight }) => `@font-face {
   font-family: '${FAMILY}';
-  src: local('${font.fullName}'),
-    local(${font.postscriptName}),
-    url('../fonts/${fileName}') format('woff2');
+  src: url('../fonts/${fileName}') format('woff2');
   font-weight: ${weight};
   font-style: normal;
   font-display: swap;
